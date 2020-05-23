@@ -1,2 +1,2 @@
-# Pri-Plus-Pluse : 
+# Pri-Plus-Plus
   c++ project.
