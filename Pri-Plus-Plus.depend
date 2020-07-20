@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1593356963 source:/home/eladg/c++/algo/Pri-Plus-Plus/main.cpp
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library1.h"
+	<iostream>
+
+1593356963 /home/eladg/c++/algo/Pri-Plus-Plus/include/library1.h
+
+1593442532 source:/home/eladg/c++/algo/Pri-Plus-Plus/src/Tree.cpp
+	"avl_tree.h"
+	"Tree.h"
+	<iostream>
+
+1593356963 /home/eladg/c++/algo/Pri-Plus-Plus/include/Tree.h
+	"avl_tree.h"
+
+1593435713 source:/home/eladg/c++/algo/Pri-Plus-Plus/src/avl_tree.cpp
+	<iostream>
+	"avl_tree.h"
+	<cstdio>
+	<sstream>
+	<algorithm>
+
+1593380641 /home/eladg/c++/algo/Pri-Plus-Plus/include/avl_tree.h
+	"Fruit.h"
+	<memory>
+
+1592909042 source:/home/eladg/c++/algo/Pri-Plus-Plus/src/Fruit.cpp
+	"Fruit.h"
+
+1593356963 /home/eladg/c++/algo/Pri-Plus-Plus/include/Fruit.h
+
+1593364620 source:/home/eladg/c++/algo/Pri-Plus-Plus/src/library1.cpp
+	"library1.h"
+	"Orchard.h"
+
+1593514252 /home/eladg/c++/algo/Pri-Plus-Plus/include/Orchard.h
+	"Tree.h"
+	"AllFruitsAvl.h"
+	"InitializedArray.h"
+
+1593364650 source:/home/eladg/c++/algo/Pri-Plus-Plus/src/Orchard.cpp
+	"library1.h"
+	"Tree.h"
+	"AllFruitsAvl.h"
+	"Orchard.h"
+	"Fruit.h"
+
+1591712478 /home/eladg/c++/algo/Pri-Plus-Plus/include/AvlTree.h
+
+1592151731 source:/home/eladg/c++/algo/Pri-Plus-Plus/src/AvlTree.cpp
+	<iostream>
+	"AvlTree.h"
+
+1593364636 /home/eladg/c++/algo/Pri-Plus-Plus/include/InitializedArray.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1593356963 source:/home/eladg/c++/algo/Pri-Plus-Plus/src/AllFruitsAvl.cpp
+	"AllFruitsAvl.h"
+	<iostream>
+	<vector>
+
+1593356963 /home/eladg/c++/algo/Pri-Plus-Plus/include/AllFruitsAvl.h
+	"avl_tree.h"
+	<vector>
+
+1593355522 source:/home/eladg/c++/algo/Pri-Plus-Plus/main2.cpp
+	<iostream>
+	"library1.h"
+
